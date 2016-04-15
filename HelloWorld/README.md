@@ -1,2 +1,0 @@
-# HelloWorld
-new demo repository
